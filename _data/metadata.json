@@ -1,20 +1,20 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "blogi.mobi",
+  "url": "https://blogi.mobi/",
+  "description": "Verkkosivun kehitys ja ylläpitopuhelimen avulla",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Verkkosivun kehitys ja ylläpitopuhelimen avulla",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://blogi.mobi/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://blogi.mobi/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Mihkel Lind",
+    "email": "lind.mihkel@gmail.com",
+    "url": "https://blogi.mobi.com/about-me/"
   }
 }
