@@ -4,4 +4,4 @@ layout: layouts/post.njk
 ---
 
 
-![Vanha matkatelevisio pylvään päällä](/img/telkku.JPG)
+![Vanha matkatelevisio pylvään päällä](/img/telkku.JPG?nf_resize=smartcrop&w=300&h=300)
