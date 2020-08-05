@@ -14,8 +14,5 @@ Tämä blogi syntyi halusta kokeilla kuinka verkkosivun tekeminen onnistuu ainoa
 Kokeillaan kuinka kuvan lisääminen onnistuu.
 
 ![Osittain jäätynyt joki lumisessa kansallismaisemassa](/img/joki-lieksassa.jpg)
-
 ...
-
 Kuvan koko on laittoman iso, 2,5Mb! Asialle on tehtävä jotain. Tarvitaan prosessi tai työkalu joka kutistaa kuvat.
-
