@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  LINE-HEIGHT: 1.5;
+  line-height: 1.5;
 }
  a {
    color: black;
@@ -12,4 +12,8 @@ img {
 
 h1 {
   font-size: 1rem;
+}
+
+main {
+  max-width: 45ch;
 }
