@@ -1,7 +1,10 @@
 body {
-  font-family: sans-serif;
-  line-height: 1.5;
+  font-family: HelveticaNowText-Regular;
+  line-height: 1.6;
+  margin: 0 0.75rem 2rem 0.75rem;
+  font-size: 16px;
 }
+
  a {
    color: black;
  }
@@ -10,10 +13,18 @@ img {
   max-width: 100%;
 }
 
-h1 {
-  font-size: 1rem;
-}
-
 main {
   max-width: 45ch;
 }
+.post-title {
+  font-size: 20px;
+  margin: 110px 0 0 0;
+  font-weight: 400;
+  }
+.post-date {
+  font-size: 12px;
+  margin: 0;
+  }
+.post-content {
+  margin-top: 110px;
+  }
