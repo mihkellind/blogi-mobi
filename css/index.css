@@ -13,7 +13,7 @@ img {
   max-width: 100%;
 }
 
-main {
+.maini {
   max-width: 45ch;
 }
 .post-title {
@@ -28,3 +28,35 @@ main {
 .post-content {
   margin-top: 110px;
   }
+.post-content {
+  --space: 36px;
+  display: flex;
+  flex-direction: column;
+  flex-content: flex-start;
+}
+.post-content > * {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.post-content > * + * {
+  margin-top: var(--space);
+}
+
+article:before {
+  content: " ";
+  display: block;
+  background: url(/img/abs.png);
+  width: 100%;
+  height: 300px;
+}
+
+
+.fw7 {font-weight: 700;}
+
+/* UTILITIES */
+/* color */ 
+.black {color: #000;}
+.bg-black {background-color: #000;}
+
+.white {color: #FFF;}
+.bg-white {bacckground-color: #FFF;}
