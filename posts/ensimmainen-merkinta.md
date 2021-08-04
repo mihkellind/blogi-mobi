@@ -17,3 +17,5 @@ Kokeillaan onnistuuko kuvien lisääminen
 
 ...
 Kuvan koko on laittoman iso, 2,5Mb! Asialle on tehtävä jotain. Tarvitaan prosessi tai työkalu joka kutistaa kuvat.
+
+päivitys 4.8.2021
